@@ -1,0 +1,3 @@
+pydandtic
+fastapi
+json 

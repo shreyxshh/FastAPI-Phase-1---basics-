@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Aman Sharma",
+        "course": "Computer Science"
+    },
+    {
+        "id": 2,
+        "name": "Aman Verma",
+        "course": "Data Science"
+    },
+    {
+        "id": 3,
+        "name": "Aman Gupta",
+        "course": "Web Development"
+    },
+    {
+        "id": 4,
+        "name": "Priya Patel",
+        "course": "Computer Science"
+    },
+    {
+        "id": 5,
+        "name": "Priya Singh",
+        "course": "Data Science"
+    },
+    {
+        "id": 6,
+        "name": "Priya Sharma",
+        "course": "Artificial Intelligence"
+    },
+    {
+        "id": 7,
+        "name": "Rahul Kumar",
+        "course": "Web Development"
+    },
+    {
+        "id": 8,
+        "name": "Rahul Mehra",
+        "course": "Computer Science"
+    },
+    {
+        "id": 9,
+        "name": "Rahul Roy",
+        "course": "Data Science"
+    },
+    {
+        "id": 10,
+        "name": "Rohit Verma",
+        "course": "Web Development"
+    },
+    {
+        "id": 11,
+        "name": "Rohit Jain",
+        "course": "Artificial Intelligence"
+    },
+    {
+        "id": 12,
+        "name": "Rohit Malhotra",
+        "course": "Computer Science"
+    },
+    {
+        "id": 13,
+        "name": "Sakshi Jain",
+        "course": "Data Science"
+    },
+    {
+        "id": 14,
+        "name": "Sakshi Gupta",
+        "course": "Artificial Intelligence"
+    },
+    {
+        "id": 15,
+        "name": "Neha Reddy",
+        "course": "Web Development"
+    },
+    {
+        "id": 16,
+        "name": "Neha Joshi",
+        "course": "Computer Science"
+    },
+    {
+        "id": 17,
+        "name": "Arjun Nair",
+        "course": "Data Science"
+    },
+    {
+        "id": 18,
+        "name": "Arjun Kapoor",
+        "course": "Artificial Intelligence"
+    },
+    {
+        "id": 19,
+        "name": "Ananya Iyer",
+        "course": "Web Development"
+    },
+    {
+        "id": 20,
+        "name": "Ananya Sen",
+        "course": "Computer Science"
+    }
+]
